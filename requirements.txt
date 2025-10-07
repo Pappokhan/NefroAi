@@ -6,4 +6,5 @@ joblib
 xgboost
 streamlit
 pandas
+psutil
 plotly

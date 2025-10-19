@@ -8,3 +8,4 @@ streamlit
 pandas
 psutil
 plotly
+fpdf
